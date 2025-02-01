@@ -1,4 +1,4 @@
-# Pardon My English
+# Grammar Police
 
 **tl;dr: The bot that uses preset prompts to help users communicate like native English speakers.**
 
